@@ -1,3 +1,4 @@
+# 🔴 Had To stop and will upgrade it all using c# and maui 
 # FinalProject
 Point of Sale System done in java
 
@@ -14,21 +15,21 @@ This is my first program that I have ever made and I am very proud of it. I have
 
 #### Main Features:
 - Making sales 🟢
-- Save a sale and come back to it later 🟡
+- Save a sale and come back to it later 🔴
 - Quick Products buttons on the sale screen 🟢
-- Print and redeem your own gift vouchers 🟠
-- Optional Fast Pay and item autocomplete windows 🟡
-- Product prices can be stored including sales tax 🟡
-- Simple stock management and stock re-order reports 🟡
-- Basic security: sales, supervisor and administrator passwords 🟡
+- Print and redeem your own gift vouchers 🔴
+- Optional Fast Pay and item autocomplete windows 🔴
+- Product prices can be stored including sales tax 🔴
+- Simple stock management and stock re-order reports 🔴
+- Basic security: sales, supervisor and administrator passwords 🔴
 - Sales reports 🟢
 - Customor orders ( searching🔴 / order statuses) 🟢
 - Sales promotions (monetary discounts, % discounts, buy X get Y free, buy X for £ Y, buy X or more of the same product then change item price to £Y) 🔴
-- The sales data is stored in a customisable .CSV (comma separated values) format which can be then uploaded to your separate computerised accounting / stock management system at a later convenient moment. 🟡
-- UI/UX improvements 🟡
+- The sales data is stored in a customisable .CSV (comma separated values) format which can be then uploaded to your separate computerised accounting / stock management system at a later convenient moment. 🔴
+- UI/UX improvements 🔴
 - Code refactoring 🔴
 
-- And More to come!!
+- And More to come!!🔴
 
 
 

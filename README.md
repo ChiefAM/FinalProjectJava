@@ -1,4 +1,4 @@
-# 🔴 Had To stop and will upgrade it all using c# and maui 
+# 🔴 Had To stop Making A game on Cryengine !!
 # FinalProject
 Point of Sale System done in java
 
